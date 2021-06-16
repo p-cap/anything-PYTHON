@@ -8,3 +8,5 @@ My personal collection of different python scripts to showcase my proficiency as
   This directoty contains examples of data structures and algorithms written in Python
 - [Decode.py](https://github.com/p-cap/anything-PYTHON/tree/main/CTF)     
   The code above was developed during a CTF challenge that decrpyted a ciphertext that was XOR'd with a 5-byte key
+- [Portscanner.py](https://github.com/p-cap/anything-PYTHON/blob/main/portscanner.py)   
+  The code above will scan for open ports on a specific targer
