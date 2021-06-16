@@ -1,2 +1,2 @@
 # anything-PYTHON
-This repo is a collection of different python scripts to showcase my proficiency as a python developer
+My personal collection of different python scripts to showcase my proficiency as a Python Developer and remember...this is not the end
