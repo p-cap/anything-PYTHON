@@ -6,3 +6,5 @@ My personal collection of different python scripts to showcase my proficiency as
   This script is for web development in Python
 - [Data structures and algorithms](https://github.com/p-cap/anything-PYTHON/tree/main/algorithms-data-structures)   
   This directoty contains examples of data structures and algorithms written in Python
+- [Decode.py](https://github.com/p-cap/anything-PYTHON/tree/main/CTF)     
+  The code above was developed during a CTF challenge that decrpyted a ciphertext that was XOR'd with a 5-byte key
