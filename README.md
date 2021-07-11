@@ -14,5 +14,5 @@ NOTE: Some of the scripts
 - [verify-sha256.py](https://github.com/p-cap/anything-PYTHON/blob/main/verify-sha256.py)    
   The code above will verify the sha256 hash of newly downloaded file
 - [module-finder.py](https://github.com/p-cap/anything-PYTHON/blob/main/module-finder.py)    
-  Looks for specific modules within python to see they exist. The simple script returns a Boolean expression
+  Looks for specific modules within python to see they exist. The simple script returns a Boolean expression     
   NOTE: The module of concern was statically assigned within its source code
