@@ -1,5 +1,6 @@
 # anything-PYTHON
 My personal collection of different python scripts to showcase my proficiency as a Python Developer and remember...this is not the end
+NOTE: Some of the scripts
 
 # Scripts
 - [Creating a Django Virtual Environment](https://github.com/p-cap/Django-vitual-environment.git)  
@@ -14,3 +15,4 @@ My personal collection of different python scripts to showcase my proficiency as
   The code above will verify the sha256 hash of newly downloaded file
 - [module-finder.py](https://github.com/p-cap/anything-PYTHON/blob/main/module-finder.py)    
   Looks for specific modules within python to see they exist. The simple script returns a Boolean expression
+  NOTE: The module of concern was statically assigned within its source code
