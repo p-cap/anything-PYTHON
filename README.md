@@ -1,6 +1,6 @@
 # anything-PYTHON
 My personal collection of different python scripts to showcase my proficiency as a Python Developer and remember...this is not the end    
-NOTE: Some of the scripts can be refactored for scalability
+NOTE: Some of the scripts can be refactored for scalability. Most of the scripts do not ask for arguments which allows a broader use of the code
 
 # Scripts
 - [Creating a Django Virtual Environment](https://github.com/p-cap/Django-vitual-environment.git)  
