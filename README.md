@@ -12,5 +12,5 @@ My personal collection of different python scripts to showcase my proficiency as
   The code above will scan for open ports on a specific target
 - [verify-sha256.py](https://github.com/p-cap/anything-PYTHON/blob/main/verify-sha256.py)    
   The code above will verify the sha256 hash of newly downloaded file
-- [module-finder.oy](https://github.com/p-cap/anything-PYTHON/blob/main/module-finder.py)    
+- [module-finder.py](https://github.com/p-cap/anything-PYTHON/blob/main/module-finder.py)    
   Looks for specific modules within python to see they exist. The simple script returns a Boolean expression
