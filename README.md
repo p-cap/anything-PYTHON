@@ -16,5 +16,5 @@ NOTE: Some of the scripts can be refactored for scalability. Most of the scripts
 - [module-finder.py](https://github.com/p-cap/anything-PYTHON/blob/main/module-finder.py)    
   Looks for specific modules within python to see they exist. The simple script returns a Boolean expression     
   NOTE: The module of concern was as argument assigned within its source code
-- ["Templated" from Hack The Box](https://github.com/p-cap/HTB-Templated.git)
-  Recreated the Templated challenge in Hack The Box
+- ["Templated" from Hack The Box](https://github.com/p-cap/HTB-Templated.git) \
+  Recreated the "Templated" challenge in Hack The Box
