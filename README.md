@@ -18,3 +18,6 @@ NOTE: Some of the scripts can be refactored for scalability. Most of the scripts
   NOTE: The module of concern was as argument assigned within its source code
 - ["Templated" from Hack The Box](https://github.com/p-cap/HTB-Templated.git) \
   Recreated the "Templated" challenge in Hack The Box
+- [Blind SQLi Script](https://github.com/p-cap/Burp-TTPs/blob/0a5dbc34d0618f8a4a8c4267b1430e0065e9abd0/scripts/SQL%20Injection/Readme.md) \
+  Script that attaches SQL Statements to the client's cookie to eventually retrieve administrator credentials
+  
